@@ -26,11 +26,12 @@ function Landing() {
         </h1>
         <p className="leading-7 [&:not(:first-child)]:mt-6 max-w-lg mb-3">
           welcome to my site! my name is farouk and i am a student at Boston
-          University and a software engineer at Workshop Venture Partners. i
-          love the 0 to 1 of building software and how i grow with the things i
-          build. since starting my journey as a programmer, i've learned that
-          software is an art and like any art we can draw inspiration from other
-          art. i am currently interested in machine learning and its applications in research, finance, and productivity.
+          University and a software engineer at Workshop Venture Partners. i am
+          currently interested in machine learning and its applications in
+          research, finance, and productivity. i love the 0 to 1 of building
+          software and how i grow with the things i build. since starting my
+          journey as a programmer, i've learned that software is an art and like
+          any art we can draw inspiration from other art.
         </p>
       </div>
       <div className="w-full lg:w-1/2 flex flex-col justify-center">
