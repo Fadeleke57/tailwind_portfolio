@@ -20,7 +20,7 @@ function Writing() {
             }
             target="_blank"
           >
-            <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight flex flex-inline items-center hover:underline">
+            <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight flex flex-wrap lg:flex-inline items-center hover:underline">
               <Link2 className="mr-2" /> ai as a catalyst for a circular economy
             </h3>
           </Link>
