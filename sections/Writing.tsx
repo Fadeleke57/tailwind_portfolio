@@ -1,6 +1,5 @@
 import { Link2 } from "lucide-react";
 import Link from "next/link";
-import { Button } from "@/components/ui/button";
 
 function Writing() {
   return (
@@ -22,7 +21,7 @@ function Writing() {
             target="_blank"
           >
             <h3 className="scroll-m-20 text-2xl font-semibold tracking-tight flex flex-inline items-center hover:underline">
-              <Link2 className="mr-2" /> ai in a circular environment
+              <Link2 className="mr-2" /> ai as a catalyst for a circular economy
             </h3>
           </Link>
         </div>
