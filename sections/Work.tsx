@@ -26,6 +26,7 @@ function Work() {
             <li>full stack development with Cat Trail Capital LLC</li>
             <li>IBM's software engineering acclerator</li>
             <li>system administration at Harvard's math department</li>
+            <li>freelance web development for a while</li>
           </ul>
         </div>
       </div>

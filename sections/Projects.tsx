@@ -16,14 +16,14 @@ function Projects() {
       demoLink: null,
       title: "next-day stock prediction",
       description:
-        "Deep learning model using a Long Short-Term Memory (LSTM) architecture to predict stock prices based on historical data. Wrapped in a Django REST API making calls to the model. Couldn't get hosting due to size constraints.",
+        "Deep learning model using an LSTM architecture to predict stock prices based on historical data. Wrapped in a Django REST API making calls to the model. Couldn't get hosting due to size constraints.",
     },
     {
       codeLink: "https://github.com/Fadeleke57/ocaml_compiler",
       demoLink: null,
       title: "ocaml compiler",
       description:
-        "Parser and evaluator for a custom stack-based language that supports arithmetic operations, and functions. Processes expressions and converts them into a sequence of stack-based commands.",
+        "Parser and evaluator for a custom stack-based language that supports arithmetic operations and functions. Processes expressions and converts them into a sequence of stack-based commands.",
     },
     {
       codeLink: "https://github.com/Fadeleke57/deep-face",
