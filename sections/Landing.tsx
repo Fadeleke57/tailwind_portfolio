@@ -1,6 +1,5 @@
 "use client";
 import { NavDock } from "@/components/Dock";
-import { Button } from "@/components/ui/button";
 import {
   Accordion,
   AccordionContent,
@@ -25,12 +24,12 @@ function Landing() {
           farouk adeleke
         </h1>
         <p className="leading-7 [&:not(:first-child)]:mt-6 max-w-lg mb-3">
-          welcome to my site! my name is farouk and i am a student at Boston
-          University and a software engineer at Workshop Venture Partners. i am
-          currently interested in machine learning and its applications in
-          research, finance, and productivity. i love the 0 to 1 of building
+          welcome to my site! my name is farouk and i am a student at boston
+          university and a software engineer at <span>startup</span>, a data analytics company in london. i am
+          currently interested in machine learning, AI, and design and its applications in
+          search and productivity. i love the 0 to 1 of building
           software and how i grow with the things i build. since starting my
-          journey as a programmer, i've learned that software is an art and like
+          journey as a programmer, I&apos;ve learned that software is an art and like
           any art we can draw inspiration from other art.
         </p>
       </div>
@@ -42,12 +41,12 @@ function Landing() {
           <AccordionItem value="item-1">
             <AccordionTrigger>jean-michel basquiat</AccordionTrigger>
             <AccordionContent>
-              "let your tastes make the decisions not your brain"
+              &ldquo;let your tastes make the decisions not your brain&rdquo;
             </AccordionContent>
           </AccordionItem>
           <AccordionItem value="item-2">
             <AccordionTrigger>lex fridman</AccordionTrigger>
-            <AccordionContent>"complain less. build more."</AccordionContent>
+            <AccordionContent>&ldquo;complain less. build more.&rdquo;</AccordionContent>
           </AccordionItem>
         </Accordion>
       </div>

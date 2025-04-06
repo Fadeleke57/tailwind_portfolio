@@ -9,7 +9,14 @@ function Projects() {
       demoLink: "https://www.spydr.dev/",
       title: "spydr",
       description:
-        "FastAPI application that aids in the qualitative research process, specifically through the news. It allows for user's to visualize and organize their news/research papers through a knowledge graph.",
+        "AI-driven social media platform for users to create, share, and interact with mindmaps of any topic. Currently in development and built with Next.js, FastAPI and Vercel AI SDK.",
+    },
+    {
+      codeLink: "https://github.com/Fadeleke57/stock-tracking-app",
+      demoLink: "https://stocktrackingapp.vercel.app/",
+      title: "spydr",
+      description:
+        "Next.js app for tracking, searching, and visualizing stock data. Built with Next.js and hosted on Vercel.",
     },
     {
       codeLink: "https://github.com/Fadeleke57/bonsai-finance-app",
@@ -30,7 +37,7 @@ function Projects() {
       demoLink: null,
       title: "deepface facial recognition",
       description:
-            "Continuously checks the webcam feed against a reference image of the user's face. Threading is used to prevent interruptions to the video stream during the matching process",
+        "Continuously checks the webcam feed against a reference image of the user's face. Threading is used to prevent interruptions to the video stream during the matching process",
     },
   ];
 
