@@ -14,7 +14,7 @@ function Projects() {
     {
       codeLink: "https://github.com/Fadeleke57/stock-tracking-app",
       demoLink: "https://stocktrackingapp.vercel.app/",
-      title: "spydr",
+      title: "bonsai finance",
       description:
         "Next.js app for tracking, searching, and visualizing stock data. Built with Next.js and hosted on Vercel.",
     },
