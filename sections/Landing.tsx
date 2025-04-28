@@ -1,4 +1,4 @@
-l"use client";
+"use client";
 import { NavDock } from "@/components/Dock";
 import {
   Accordion,
