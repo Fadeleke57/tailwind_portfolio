@@ -1,4 +1,4 @@
-"use client";
+l"use client";
 import { NavDock } from "@/components/Dock";
 import {
   Accordion,
@@ -25,12 +25,12 @@ function Landing() {
         </h1>
         <p className="leading-7 [&:not(:first-child)]:mt-6 max-w-lg mb-3">
           welcome to my site! my name is farouk and i am a student at boston
-          university and a software engineer at <span>startup</span>, a data analytics company in london. i am
+          university and a software engineer at <span className="text-violet-400/80">Envelopers</span>, a data analytics company in london. i am
           currently interested in machine learning, AI, and design and its applications in
-          search and productivity. i love the 0 to 1 of building
+          search, productivity, and news. i love the 0 to 1 of building
           software and how i grow with the things i build. since starting my
           journey as a programmer, I&apos;ve learned that software is an art and like
-          any art we can draw inspiration from other art.
+          any art we can draw inspiration from other art to innovate.
         </p>
       </div>
       <div className="w-full lg:w-1/2 flex flex-col justify-center">
